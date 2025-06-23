@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|c:\\users\\linac\\\u044E\u043D\u0438\u0442\u0438\\testprojectnew\\assets\\scripts\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\gamepaduinavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\gamepaduinavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB32450D-D097-8A58-B0F0-5E21841D43D4}|Assembly-CSharp.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\input\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB32450D-D097-8A58-B0F0-5E21841D43D4}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB32450D-D097-8A58-B0F0-5E21841D43D4}|Assembly-CSharp.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\input\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB32450D-D097-8A58-B0F0-5E21841D43D4}|Assembly-CSharp.csproj|solutionrelative:assets\\input\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\anygamepadbuttonscenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\anygamepadbuttonscenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\singleeventsystemenforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\singleeventsystemenforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\scrollrectautoscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\scrollrectautoscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\dropdownnavigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\dropdownnavigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\keyfieldunselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\keyfieldunselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\AnyKeyToStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AnyKeyToStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC09C3D-FDA4-DD35-66FE-5B64EA8ED742}|Gentleland.SteampunkUI.DemoAndExample.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB868036-FF2F-262B-AAEF-33B65350EA29}|NewAssembly.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\utils\\editor\\openwindowsonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB868036-FF2F-262B-AAEF-33B65350EA29}|NewAssembly.csproj|solutionrelative:assets\\utils\\editor\\openwindowsonload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\WelcomeWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Utils\\Editor\\WelcomeWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\Start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\inputTestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Input\\inputTestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB868036-FF2F-262B-AAEF-33B65350EA29}|NewAssembly.csproj|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\assets\\utils\\editor\\packagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB868036-FF2F-262B-AAEF-33B65350EA29}|NewAssembly.csproj|solutionrelative:assets\\utils\\editor\\packagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\inputTestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\inputTestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\GameInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnyGamepadButtonSceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\AnyGamepadButtonSceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnyGamepadButtonSceneChanger.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\AnyGamepadButtonSceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnyGamepadButtonSceneChanger.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:48:26.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingleEventSystemEnforcer.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\SingleEventSystemEnforcer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SingleEventSystemEnforcer.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\SingleEventSystemEnforcer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SingleEventSystemEnforcer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:38:19.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAKkBAAAAAAAAAAAIwMMBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:31:00.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScrollRectAutoScroll.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\ScrollRectAutoScroll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollRectAutoScroll.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\ScrollRectAutoScroll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScrollRectAutoScroll.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:29:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DropdownNavigationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\DropdownNavigationHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropdownNavigationHelper.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\DropdownNavigationHelper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropdownNavigationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:27:45.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeyFieldUnSelect.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\KeyFieldUnSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyFieldUnSelect.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\KeyFieldUnSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyFieldUnSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:27:33.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExitGame.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\ExitGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitGame.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\ExitGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitGame.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:19:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamepadUINavigator.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\GamepadUINavigator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamepadUINavigator.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\GamepadUINavigator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamepadUINavigator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:51:33.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Input\\UIManager.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Input\\UIManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:25:22.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:25:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DelegateHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:19:01.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:07:44.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpenWindowsOnLoad.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "RelativeToolTip": "Assets\\Utils\\Editor\\OpenWindowsOnLoad.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:12:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WelcomeWindow.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\WelcomeWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Utils\\Editor\\WelcomeWindow.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\WelcomeWindow.cs",
+              "RelativeToolTip": "Assets\\Utils\\Editor\\WelcomeWindow.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:51:17.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PackageSettings.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\PackageSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Utils\\Editor\\PackageSettings.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Utils\\Editor\\PackageSettings.cs",
+              "RelativeToolTip": "Assets\\Utils\\Editor\\PackageSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:51:04.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnyKeyToStart.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\AnyKeyToStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnyKeyToStart.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\AnyKeyToStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnyKeyToStart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:44:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\Start.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Start.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\Start.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Start.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:43:25.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:40:54.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "inputTestr.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\inputTestr.cs",
+              "RelativeDocumentMoniker": "Assets\\Input\\inputTestr.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\inputTestr.cs",
+              "RelativeToolTip": "Assets\\Input\\inputTestr.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:33:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Input\\GameInput.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Input\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Input\\GameInput.cs",
+              "ViewState": "AQIAALwBAAAAAAAAAAAQwM8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:29:25.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "inputTestr.cs",
+              "DocumentMoniker": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\inputTestr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\inputTestr.cs",
+              "ToolTip": "C:\\Users\\linac\\\u042E\u043D\u0438\u0442\u0438\\TestProjectNew\\Assets\\Scripts\\inputTestr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\inputTestr.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:27:51.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
